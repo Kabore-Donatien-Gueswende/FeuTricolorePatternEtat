@@ -157,6 +157,8 @@ On fera exactement le meme chose que l'etat precedent mais le changement d'etat 
 
 A cette etape nous pouvions constater que les etats changent d'eux meme de valeurs dans le console
 Illustration en image : 
+![ConsolImg](https://github.com/Kabore-Donatien-Gueswende/FeuTricolorePatternEtat/blob/master/img/Consol.PNG)
+
 
 
 # Interface Graphique
@@ -258,6 +260,8 @@ paintComponent() dessine 3 ronds affecter avec une couleur grise par defaut
 Nous pouvons passer à la demo, avec uniquement la bibliotheque Swing
 Nous allons allons ajouter un objet FenetreAfficheFeu() dans un frame visible pour pouvoir faire nos test : une capture de notre test
 en visuel cette fois-ci :D)
+![GraphiqueImg](https://github.com/Kabore-Donatien-Gueswende/FeuTricolorePatternEtat/blob/master/img/feu.PNG)
+
 
 
           import javax.swing.JFrame;
