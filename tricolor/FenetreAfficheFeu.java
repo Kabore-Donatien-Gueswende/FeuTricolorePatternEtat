@@ -3,14 +3,18 @@ package tp.feu.tricolor;
 import java.awt.Dimension;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
 import javax.swing.JButton;
 import javax.swing.JPanel;
 
+/**
+ * @author Kabore Donatien
+ *
+ */
 
-import Traffic.ligth.tp.StopLightDrawing;
-
-
+/**
+Cette class FenetreAfficheFeu permet de dimensionner la taille contenant le cadre des 3 couleurs et les integrent dans le panneau ainsi defini
+et creait un boutton "Switch" permettant d'ecouter avec la class buttonListener chaque clique pour passer à l'etat suivant grace a la methode ChangeColor()
+*/
 public class FenetreAfficheFeu extends JPanel {
     
     MiniatureFeu light = new MiniatureFeu();

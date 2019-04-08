@@ -1,5 +1,14 @@
 package tp.feu.tricolor;
 
+/**
+ * @author Kabore Donatien
+ *
+ */
+/**
+Class FeuRouge implementant l'interface et changeant ainsi d'etat à chaque fois qu'il est excecuté
+
+ainsi l'etat rouge passe au vert uniquement trafficcontext.setTrafficetat(trafficcontext.feuvert);
+*/
 public class FeuRouge implements TrafficEtat {
     TrafficContext trafficcontext;
     
