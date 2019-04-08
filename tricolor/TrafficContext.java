@@ -28,9 +28,6 @@ public class TrafficContext {
     }
     
     public TrafficEtat getTrafficetat() {
-        //TrafficEtat n = trafficetat;
-        //System.out.println(n);
-        
         return trafficetat;
     }
     
