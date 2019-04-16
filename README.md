@@ -1,6 +1,8 @@
+![GraphiqueImg](https://github.com/Kabore-Donatien-Gueswende/FeuTricolorePatternEtat/blob/master/img/feu.PNG)
+
 # Feu Tricolore avec le patron Etat
 
-Dans cet projet nous allons mettre en pratique nos connaissances du pattern Etat dans la realisation de feu de signalisation
+Dans cet projet nous allons mettre en pratique nos connaissances du pattern Etat dans la realisation de feu de signalisation qui correspond à l'image ci-dessus
 
 # Interface
 
@@ -259,10 +261,7 @@ paintComponent() dessine 3 ronds affecter avec une couleur grise par defaut
 
 Nous pouvons passer à la demo, avec uniquement la bibliotheque Swing
 Nous allons allons ajouter un objet FenetreAfficheFeu() dans un frame visible pour pouvoir faire nos test : une capture de notre test
-en visuel cette fois-ci :D)
-![GraphiqueImg](https://github.com/Kabore-Donatien-Gueswende/FeuTricolorePatternEtat/blob/master/img/feu.PNG)
-
-
+en visuel cette fois-ci :wink:
 
           import javax.swing.JFrame;
           import javax.swing.JPanel;
@@ -277,6 +276,8 @@ en visuel cette fois-ci :D)
                   frame.setVisible(true);
               }
           }
+          
+ ![GraphiqueImg](https://github.com/Kabore-Donatien-Gueswende/FeuTricolorePatternEtat/blob/master/img/feu.PNG)
           
           
 # Conclusion
