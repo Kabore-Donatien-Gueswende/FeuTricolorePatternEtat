@@ -1,6 +1,6 @@
-# FeuTricolorePatternEtat
+# Feu Tricolore avec le patron Etat
 
-# Dans cet projet nous allons mettre en pratique nos connaissances du pattern Etat dans la realisation de feu de signalisation
+Dans cet projet nous allons mettre en pratique nos connaissances du pattern Etat dans la realisation de feu de signalisation
 
 # Interface
 
